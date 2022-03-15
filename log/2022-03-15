@@ -1,0 +1,33 @@
+2022-03-15 16:52:48.669244
+历史定位签到模式
+单人签到模式
+当前IP：13.64.234.231,
+
+ 美国Microsoft公司
+
+系统时间：2022-03-15 16:52:49
+UTC时间：2022-03-15 16:52:48
+北京时间：2022-03-16 00:52:48
+北京时间与系统时间误差：7:59:58.744614
+2022-03-15 16:52:49.255452:T2020211149签到开始
+cookie文件存在
+cookie文件加载成功
+NAME邹志文
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME邹志文
+定位 116.133544，28.296102，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.14508950854902,"lat":28.299103181189115},"formatted_address":"江西省南昌市进贤县新港大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"进贤县","town":"","town_code":"","distance":"","direction":"","adcode":"360124","street":"新港大道","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E8%BF%9B%E8%B4%A4%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E8%BF%9B%E8%B4%A4%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E8%BF%9B%E8%B4%A4%E5%8E%BF&lng=116.133538&lat=28.296102&sfby=1
+签到成功
+2022-03-15 16:53:35.089887:T2020211149签到结束
+邹志文T2020211149签到成功！
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2311412911883616256}
+2022-03-15 16:53:38.120809程序结束
+######################################################################
+
+
+
+
